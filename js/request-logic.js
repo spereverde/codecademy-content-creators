@@ -14,8 +14,6 @@ function getContentType(filename) {
       return 'text/css';
       break;
     case 'jpeg':
-      return 'image/jpeg';
-      break;
     case 'jpg':
       return 'image/jpeg';
       break;
